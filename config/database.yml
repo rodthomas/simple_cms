@@ -15,6 +15,7 @@ default: &default
   pool: 5
   username: ruby
   password: ruby
+  # socket: /tmp/mysql.sock  
   host: localhost
 
 development:
